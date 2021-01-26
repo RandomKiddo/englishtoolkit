@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=WordCertifier
-comment1.params=word
-comment1.target=WordCertifier(java.lang.String)
-comment2.params=
-comment2.target=java.lang.String\ inDictionary()
-numComments=3
