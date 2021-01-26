@@ -23,9 +23,9 @@
 hs_err_pid*
 
 # Folder File
-/ETK/*.ctxt
-/ETK/*.bluej
-/ETK/*.class
+ETK/*.ctxt
+ETK/*.bluej
+ETK/*.class
 
 # Internal File
 .DS_Store
