@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestSentenceTokenizer
+comment1.params=
+comment1.target=TestSentenceTokenizer()
+comment2.params=
+comment2.target=void\ testTokenizer()
+comment3.params=shallowCopy
+comment3.target=java.lang.String\ compileTokens(java.lang.Object[])
+numComments=4

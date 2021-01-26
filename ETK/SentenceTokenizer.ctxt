@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SentenceTokenizer
+comment0.text=\n\ @author\ Neil\ G\n\ @version\ SentenceTokenizer-1.0\n\ <pre>\n\ \n\ SentenceTokenizer\ instances\ are\ used\ to\ tokenize\ a\ String\ sentence\ into\ its\ pieces.\ \n\ \n\ For\ example\:\n\ "Hello\ world\!\ I\ love\ you\!"\n\ \n\ would\ result\ in...\n\ \n\ ["Hello",\ "\ ",\ "world",\ "\!",\ "\ ",\ "I",\ "\ ",\ "love",\ "\ ",\ "you",\ "\!"]\n\ \n\ Dependencies\:\n\ java.util.*\n\ </pre>\n
+comment1.params=sentence
+comment1.target=java.util.ArrayList\ tokenize(java.lang.String)
+comment1.text=\n\ Tokenizes\ the\ String\ sentence\ parameter\ into\ it's\ pieces\ separated\ by\ Token\ values\n\ @param\ sentence\ The\ String\ sentence\ to\ tokenize\n\ @return\ An\ ArrayList<String>\ instance\ of\ the\ String\ pieces\n
+comment2.params=piece
+comment2.target=boolean\ isToken(java.lang.String)
+numComments=3

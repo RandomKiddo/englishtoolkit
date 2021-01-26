@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Separation
+comment1.params=splits
+comment1.target=Separation(char[])
+comment2.params=candidate
+comment2.target=boolean\ containsSeparation(java.lang.String)
+comment3.params=candidate
+comment3.target=boolean\ isSeparation(char)
+comment4.params=candidate
+comment4.target=boolean\ isSeparation(java.lang.String)
+comment5.params=
+comment5.target=Separation\ Default()
+numComments=6
